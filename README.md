@@ -4,19 +4,24 @@
 
 It run on command line
 
-It started by asking the use the type of car he/she want to buy and the bugdet their have ofcourse in order to know what kind of car which match the need of customer
+It started by asking the use the type of car he/she want to buy and the bugdet their have ofcourse in order to know what 
+kind of car which match the need of customer
+
 ![image](https://user-images.githubusercontent.com/103323625/192791423-dfa8404d-10a3-4802-8aed-ec09817bb8ee.png)
 
 After receiving the need of customer we give them the feedback 
-For example here the need of customer don't match our store and we decide to show him/her what we have in our store so he/she can decide what to do after
+For example here the need of customer don't match our store and we decide to show him/her what we have
+in our store so he/she can decide what to do after
 
 ![image](https://user-images.githubusercontent.com/103323625/192792312-e922ad8d-02c1-4a9a-abee-4c40af704475.png)
 
 After getting our feedback a client decide to buy what we have in our store
 and we give him/her a possibility of buying it if he/she really interested 
+
 ![image](https://user-images.githubusercontent.com/103323625/192793026-59eab4b2-ff85-457d-a018-1b19eb8b40ae.png)
 
 After getting a yes from a client means that he/she is interested to buy a car ,,so we sell it to him/her
+
 ![image](https://user-images.githubusercontent.com/103323625/192793645-97ca0d33-2650-4b7d-b806-41780a04b862.png)
 
 
